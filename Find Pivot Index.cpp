@@ -1,3 +1,6 @@
+#include <iostream>
+#include <vector>
+using namespace std;
 class Solution {
 public:
 
@@ -23,9 +26,8 @@ public:
         return sum; 
     }
     
+     // gonna make this function later for less time complexity
     int  totalSum(const vector<int> & nums ){
-
-
 
     }
     
